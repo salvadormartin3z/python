@@ -1,4 +1,3 @@
-# python
 ## FindWeb.py
 ![image](https://user-images.githubusercontent.com/67123399/151297341-f6c2ff99-92bf-490c-ba45-b85d998b1e7b.png)
 ![image](https://user-images.githubusercontent.com/67123399/151297357-dfb78ad9-7c03-45d4-bc36-ba23e7cb193e.png)
